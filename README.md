@@ -1,4 +1,4 @@
-⁸# Hi there, I'm Filipi 👋  
+# Hi there, I'm Filipi 👋  
 **Full Stack Developer**
 
 Driven by curiosity and a problem-solving mindset, I build complete web applications focusing on clean code, security, and real-world usability.
