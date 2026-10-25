@@ -1,4 +1,4 @@
-# Hi there, I'm Filipi 👋  
+⁸# Hi there, I'm Filipi 👋  
 **Full Stack Developer**
 
 Driven by curiosity and a problem-solving mindset, I build complete web applications focusing on clean code, security, and real-world usability.
@@ -23,12 +23,6 @@ Driven by curiosity and a problem-solving mindset, I build complete web applicat
 #### **Currently Learning & Expanding**
 * **TypeScript** (Static typing & scalable application design)
 * **NestJS** (Modular backend architecture)
-
----
-
-### 📌 Project Highlight
-* **Full-Stack Authentication System:**  
-  Developed a complete authentication system with a modern **React** frontend and a secure **Node.js/Express** backend. Implemented data protection practices, modular API routing, and MySQL data persistent storage.
 
 ---
 
