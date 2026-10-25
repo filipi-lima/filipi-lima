@@ -1,4 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Filipi 👋  
+**Full Stack Developer**
+
+Driven by curiosity and a problem-solving mindset, I build complete web applications focusing on clean code, security, and real-world usability.
+
+---
+
+### 🚀 About Me
+* **My Journey:** Started with frontend web technologies and expanded into backend architecture to understand how systems work end-to-end.
+* **Philosophy:** Code is a tool to solve real problems, optimize processes, and make people's lives easier.
+* **Core Focus:** Building full-stack web applications, designing RESTful APIs, and managing relational databases.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Languages & Technologies I Master**
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
+* **Backend:** Node.js, Express.js
+* **Databases:** MySQL (Data modeling, queries, SGBD management)
+* **Core Concepts:** REST APIs, Data Security, Modular Architecture, Debugging & Troubleshooting
+
+#### **Currently Learning & Expanding**
+* **TypeScript** (Static typing & scalable application design)
+* **NestJS** (Modular backend architecture)
+
+---
+
+### 📌 Project Highlight
+* **Full-Stack Authentication System:**  
+  Developed a complete authentication system with a modern **React** frontend and a secure **Node.js/Express** backend. Implemented data protection practices, modular API routing, and MySQL data persistent storage.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [Insert your LinkedIn link here]
+* **Email:** filipidelima2008@gmail.com
+* **Location:** Santo Antônio do Descoberto – GO, Brazil
 
 <!--
 **filipi-lima/filipi-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
