@@ -33,9 +33,8 @@ Driven by curiosity and a problem-solving mindset, I build complete web applicat
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Insert your LinkedIn link here]
+* **LinkedIn:** [Filipi Pinheiro](https://www.linkedin.com/in/filipi-pinheiro-6434433a6?trk=blended-typeahead)
 * **Email:** filipidelima2008@gmail.com
-* **Location:** Santo Antônio do Descoberto – GO, Brazil
 
 <!--
 **filipi-lima/filipi-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
